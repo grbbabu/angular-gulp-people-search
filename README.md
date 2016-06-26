@@ -1,4 +1,4 @@
-# Angular People Search
+# Angular People Search using Gulp
 
 [![Build Status](https://travis-ci.org/grbbabu/angular-gulp-people-search.svg?branch=master)](https://travis-ci.org/grbbabu/angular-gulp-people-search)
 
