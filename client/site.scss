@@ -1,0 +1,41 @@
+@import '../bower_components/bootstrap-sass/assets/stylesheets/bootstrap';
+
+$blue-color: #0080AF;
+
+.people-search {
+  max-width: 768px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+  .page-header {
+    border-bottom: none;
+    margin-left: -15px;
+
+    .row {
+      padding: 0 15px;
+    }
+  }
+
+  &--header {
+    font-size: 40px;
+    color: $blue-color;
+  }
+
+  &--search-term {
+    margin-right: -10px;
+  }
+
+  &--name {
+    font-size: 24px;
+    color: $blue-color;
+  }
+
+  ul
+  {
+    list-style-type: none;
+  }
+}
+
+// CSS styles for cloaking the angular directives and prevent blinking.
+[data-ng\:cloak], [data-ng-cloak], .ng-cloak {
+  display: none !important;
+}

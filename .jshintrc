@@ -1,0 +1,17 @@
+{
+  "curly": true,
+  "eqnull": true,
+  "eqeqeq": true,
+  "undef": true,
+  "latedef": "nofunc",
+  "globals": {
+    "angular": true,
+    "describe": true,
+    "it": true,
+    "expect": true,
+    "beforeEach": true,
+    "afterEach": true,
+    "module": true,
+    "inject": true
+  }
+}
