@@ -26,7 +26,7 @@
     "chai": "^3.5.0",
     "del": "^2.2.1",
     "gulp": "^3.9.1",
-    "gulp-connect": "^4.1.0",
+    "gulp-connect": "^5.7.0",
     "gulp-jshint": "^2.0.1",
     "gulp-karma": "0.0.5",
     "gulp-load-plugins": "^1.2.4",
