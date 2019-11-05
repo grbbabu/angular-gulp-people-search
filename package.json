@@ -24,7 +24,7 @@
     "angular-mocks": "~1.5.7",
     "browser-sync": "^2.13.0",
     "chai": "^3.5.0",
-    "del": "^2.2.1",
+    "del": "^5.1.0",
     "gulp": "^3.9.1",
     "gulp-connect": "^4.1.0",
     "gulp-jshint": "^2.0.1",
