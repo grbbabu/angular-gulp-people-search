@@ -36,7 +36,7 @@
     "jshint-stylish": "^2.1.0",
     "karma": "~0.13",
     "karma-chai": "^0.1.0",
-    "karma-chrome-launcher": "^1.0.1",
+    "karma-chrome-launcher": "^3.1.0",
     "karma-htmlfile-reporter": "^0.3.4",
     "karma-mocha": "^1.0.1",
     "karma-mocha-debug": "^0.1.2",
