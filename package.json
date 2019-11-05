@@ -25,7 +25,7 @@
     "browser-sync": "^2.13.0",
     "chai": "^3.5.0",
     "del": "^2.2.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-connect": "^4.1.0",
     "gulp-jshint": "^2.0.1",
     "gulp-karma": "0.0.5",
