@@ -43,7 +43,7 @@
     "karma-mocha-reporter": "^2.0.4",
     "karma-phantomjs-launcher": "^1.0.1",
     "karma-sinon": "^1.0.4",
-    "mocha": "^2.1.0",
+    "mocha": "^8.3.1",
     "phantomjs-prebuilt": "^2.1.7",
     "sinon": "^1.12.2"
   }
